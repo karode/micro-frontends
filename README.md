@@ -13,3 +13,4 @@ This is a dependency for some of the other apps.
 2. `yarn install`
 3. `yarn build`
 3. `yarn start`
+# micro-frontends
